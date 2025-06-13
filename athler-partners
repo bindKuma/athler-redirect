@@ -8,11 +8,11 @@
   <meta property="og:title" content="athler 파트너스 센터">
   <meta property="og:description" content="애슬러 사이트를 통해 서비스 안내가 진행됩니다.">
   <meta property="og:image" content="https://athler.vercel.app/og-image.jpg">
-  <meta property="og:url" content="https://sites.google.com/bindcorporation.com/seller-support-center">
+  <meta property="og:url" content="https://sites.google.com/bindcorporation.com/seller-support-center/%ED%99%88">
   <meta name="twitter:card" content="summary_large_image">
 
   <!-- Auto Redirect -->
-  <meta http-equiv="refresh" content="2; url=https://sites.google.com/bindcorporation.com/seller-support-center">
+  <meta http-equiv="refresh" content="2; url=https://sites.google.com/bindcorporation.com/seller-support-center/%ED%99%88">
 
   <style>
     body {
@@ -25,6 +25,6 @@
 </head>
 <body>
   <h2>애슬러 파트너스 센터로 이동하는 중입니다...</h2>
-  <p>2초 후 <a href="https://sites.google.com/bindcorporation.com/seller-support-center">그리고 구이어스 사이트로 이동</a>합니다.</p>
+  <p>2초 후 <a href="https://sites.google.com/bindcorporation.com/seller-support-center/%ED%99%88">애슬러 파트너스 센터로 이동</a>합니다.</p>
 </body>
 </html>
